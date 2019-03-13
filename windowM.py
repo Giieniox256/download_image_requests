@@ -1,3 +1,2 @@
 import tkinter
 
-as

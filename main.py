@@ -1,0 +1,3 @@
+from windowM import *
+
+window()
